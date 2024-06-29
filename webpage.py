@@ -34,7 +34,6 @@ def fetch_poster(movie_id):
 #Webpage
 
 st.title("Movie Rcommendation System")
-st.write("by Ansh Dabral")
 st.text("by Ansh Dabral")
 st.write(" my [resume website](https://anshd2002.github.io/Resume_website.github.io/)")
 
