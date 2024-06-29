@@ -34,6 +34,10 @@ def fetch_poster(movie_id):
 #Webpage
 
 st.title("Movie Rcommendation System")
+st.write("by Ansh Dabral")
+st.text("by Ansh Dabral")
+st.write(" my [resume website](https://anshd2002.github.io/Resume_website.github.io/)")
+
 movie_name = st.selectbox("Select movie",movies["title"].values)
 if st.button('Show Recommendation'):
     recommended_movie_names, recommended_movie_posters = recommend(movie_name)
