@@ -1,8 +1,7 @@
 # Movie Recommendation System
-#[Movie_Recommendation](https://movie-recommendation-system-vx82xsm8zcnd7wr4pusesp.streamlit.app/)
+[Movie_Recommendation](https://movie-recommendation-system-vx82xsm8zcnd7wr4pusesp.streamlit.app/)
+
 [Movie_recommendation_System.webm](https://github.com/AnshD2002/movie-recommendation-system/assets/89890890/9144aa91-fa97-41f3-800f-e19d24789059)
-
-
 
 A movie recommendation system built with Python using Streamlit, NLTK for natural language processing, and TMDB API for fetching movie posters.
 
