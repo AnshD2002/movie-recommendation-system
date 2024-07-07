@@ -34,7 +34,7 @@ This application recommends movies based on similarity scores computed using vec
    ```bash
    git clone https://github.com/your-username/movie-recommendation-system.git
 2. Navigate to the project directory:
-  ```bash
+   ```bash
    cd movie-recommendation-system
 3. Run the Streamlit app:
    ```bash
